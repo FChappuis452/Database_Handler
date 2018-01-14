@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Database_Handler
 {
-    public class Class1
+    public class DbHandler
     {
+        //test
     }
 }
