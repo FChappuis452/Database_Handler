@@ -44,7 +44,6 @@ namespace Database_Handler
                     using (StreamWriter writer = new StreamWriter(Filename, true))
                     {
                         writer.WriteLine(message);
-                        Console.WriteLine("");
                     }
                 }
             }
